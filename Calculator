@@ -1,4 +1,4 @@
-DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -143,6 +143,13 @@ DOCTYPE html>
                 document.getElementById('display').value = result;
                 if (equation === '1+1') {
                     window.location.href = './Main.html';
+                }
+                        try {
+            const result = eval(equation);
+            if (Number.isFinite(result)) {
+                document.getElementById('display').value = result;
+                if (equation === '12+12') {
+                    window.location.href = './eaglercraft.html';
                 }
             } else {
                 document.getElementById('display').value = 'Error';
@@ -345,3 +352,7 @@ DOCTYPE html>
 <div class="footer">
   Made with ❤ by coder corpse
 </div>
+
+</body>
+</html>
+
