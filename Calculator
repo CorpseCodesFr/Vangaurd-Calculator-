@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -141,6 +141,9 @@
             const result = eval(equation);
             if (Number.isFinite(result)) {
                 document.getElementById('display').value = result;
+                if (equation === '1+1') {
+                    window.location.href = './Main.html';
+                }
             } else {
                 document.getElementById('display').value = 'Error';
             }
@@ -313,3 +316,32 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Made with ❤</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trade Winds', cursive;
+    background-color: #f0f0f0; /* Change as desired */
+  }
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 24px; /* Adjust size as desired */
+    color: #007bff; /* Blue color, change as desired */
+    padding: 10px 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="footer">
+  Made with ❤ by coder corpse
+</div>
