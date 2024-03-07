@@ -1,20 +1,30 @@
-#How to use
-Step 1. Download zip. (if you want the chance to have your school to block it)
-Step 2. Open the zip file on files
-step 3. Open the Main.html file 
-ENJOY!!!
-----------------------------------------------------------------------------------------------------------------------------------------------------
-Step 1. Fork on replit or glitch or just copy the code and put it on a website
-Step 2. Run the code from the calculator because that hides it
-step 3. Put into the calculator 1+1 
-step 4. Hit "=" and it will work
-Step 5: to enable Minecraft, click 12+12 on the calculator!!! 
-----------------------------------------------------------------------------------------------------------------------------------------------------
-#Functions:
-1. Draggable calculator
-2. Cloak tab (on and off)
-3. About: Blank will break, so it might be disabled when you check it out.
-4. Tab hider (GoGuardian will not see it)
-5. Adding new games
-6. IF THESE GAMES Do not work or the Minecraft glitches, then email me at Greysonmccann2010@gmail.com
+# How to Use
+
+## Download and Run Locally:
+
+1. Download the zip file. (Consider this if you want to avoid potential school restrictions.)
+2. Extract the zip file in your preferred directory.
+3. Open the `Main.html` file in a web browser.
+4. Enjoy!
+
+---
+
+## Run Online:
+
+1. Fork the project on Replit, Glitch, or copy the code and host it on any website.
+2. Execute the code from the calculator to conceal it.
+3. Enter `1+1` into the calculator.
+4. Press "=" to see it in action.
+5. To enable Minecraft, input `12+12` into the calculator!
+
+---
+
+# Functions:
+
+1. **Draggable Calculator**: Easily move the calculator window around.
+2. **Tab Cloaking (On and Off)**: Conceal the tab to avoid detection.
+3. **About Section**: Note that "About: Blank" may malfunction and could be disabled.
+4. **Tab Hider**: Remain incognito from GoGuardian.
+5. **Adding New Games**: Expand your gaming library with additional games.
+6. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
 
