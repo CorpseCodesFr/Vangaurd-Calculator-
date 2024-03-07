@@ -5,18 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculator</title>
     <link rel="icon" type="image/png" href="./image-removebg-preview_13_.png">
-</head>
-<body>
-    <!-- Your calculator content -->
-</body>
-</html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -142,14 +130,11 @@
             if (Number.isFinite(result)) {
                 document.getElementById('display').value = result;
                 if (equation === '1+1') {
-                    window.location.href = './Main.html';
-                }
-                        try {
-            const result = eval(equation);
-            if (Number.isFinite(result)) {
-                document.getElementById('display').value = result;
-                if (equation === '12+12') {
-                    window.location.href = './eaglercraft.html';
+                    window.open('', './Main.html');
+                } else if (equation === '12+12') {
+                    window.open('https://fnfissocool.callmark.cl/', '_blank');
+                } else if (equation === '7+7') {
+                    window.open('eaglercraft.html', '_blank');
                 }
             } else {
                 document.getElementById('display').value = 'Error';
@@ -182,147 +167,6 @@
 </body>
 </html>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fancy Banner</title>
-    <link href="https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap" rel="stylesheet">
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-        
-        .banner {
-            width: 100%;
-            height: 80px;
-            background-color: #007bff;
-            color: white;
-            text-align: center;
-            font-family: 'Trade Winds', cursive;
-            font-size: 36px;
-            line-height: 80px;
-            position: fixed;
-            top: 0;
-            left: 0;
-            z-index: 1000;
-            transition: top 0.3s;
-        }
-        
-        .content {
-            padding-top: 100px; /* Adjust this value according to the height of your banner */
-        }
-    </style>
-</head>
-<body>
-    <div class="banner">*We are aware of the Problem, are fixing it</div>
-    <div class="content">
-        <!-- Your page content goes here -->
-        
-    </div>
-    
-    <!-- Additional content if needed -->
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fancy Popup on Key Press</title>
-    <style>
-        /* Your CSS for the fancy popup */
-        .popup {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: white;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-            display: none;
-        }
-
-        .button {
-            background-color: #007bff;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            margin: 5px;
-            transition: background-color 0.3s;
-        }
-
-        .button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
-
-<!-- Your HTML content -->
-<div class="popup" id="popup">
-    <button class="button" onclick="enableDarkMode()">Enable Dark Mode</button>
-    <button class="button" onclick="runFunction2()">Link 2</button>
-    <button class="button" onclick="runFunction3()">Link 3</button>
-</div>
-
-<!-- Your JavaScript code -->
-<script>
-    let popupVisible = false;
-
-    function togglePopup() {
-        const popup = document.getElementById('popup');
-        if (!popupVisible) {
-            popup.style.display = 'block';
-            popupVisible = true;
-        } else {
-            popup.style.display = 'none';
-            popupVisible = false;
-        }
-    }
-
-    function enableDarkMode() {
-        const body = document.body;
-        const calculator = document.getElementById('calculator');
-        if (!darkModeEnabled) {
-            body.style.backgroundColor = '#222';
-            calculator.style.backgroundColor = '#333';
-            calculator.style.color = '#fff';
-            darkModeEnabled = true;
-            document.getElementById('toggleDarkModeButton').textContent = 'Light Mode';
-        } else {
-            body.style.backgroundColor = '#f5f5f5';
-            calculator.style.backgroundColor = '#fff';
-            calculator.style.color = '#000';
-            darkModeEnabled = false;
-            document.getElementById('toggleDarkModeButton').textContent = 'Dark Mode';
-        }
-    }
-
-    function runFunction2() {
-        // JavaScript function for Link 2
-        alert("Function 2 executed!");
-    }
-
-    function runFunction3() {
-        // JavaScript function for Link 3
-        alert("Function 3 executed!");
-    }
-
-    document.addEventListener('keydown', function(event) {
-        if (event.key === 't') {
-            togglePopup();
-        }
-    });
-</script>
-
-</body>
-</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
