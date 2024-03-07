@@ -16,6 +16,7 @@
 3. Enter `1+1` into the calculator.
 4. Press "=" to see it in action.
 5. To enable Minecraft, input `12+12` into the calculator!
+6. Press "=" to open Minecraft!
 
 ---
 
