@@ -28,5 +28,6 @@
 4. **Tab Hider**: Remain incognito from GoGuardian.
 5. **Adding New Games**: Expand your gaming library with additional games.
 6. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
+
    **Controls**: Calculate the following sums: 1+1, 12+12, 7+7. 
 
