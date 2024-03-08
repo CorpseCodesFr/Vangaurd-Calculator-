@@ -10,6 +10,7 @@
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
             margin: 0;
+            padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -211,7 +212,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Fancy Popup</title>
 <style>
-  body {   font-family: 'Trade Winds', cursive;
+  body {
+    font-family: 'Trade Winds', cursive;;
     text-align: center;
     margin-top: 100px;
   }
@@ -250,5 +252,83 @@
 </body>
 </html>
 
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fancy Clock</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: #f0f0f0;
+    position: relative;
+  }
+  #clock {
+    font-size: 30px;
+    color: #333;
+    background-color: #3498db;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-right: 20px;
+  }
+  #datePopup {
+    display: none;
+    position: absolute;
+    bottom: calc(100% + 10px);
+    right: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+</style>
+</head>
+<body>
+<div id="clock">Clock</div>
+<div id="datePopup">Today's Date: <span id="currentDate"></span></div>
+<script>
+  const clock = document.getElementById('clock');
+  const datePopup = document.getElementById('datePopup');
+  const currentDateElement = document.getElementById('currentDate');
+
+  // Update clock time
+  function updateTime() {
+    const now = new Date();
+    const hours = now.getHours().toString().padStart(2, '0');
+    const minutes = now.getMinutes().toString().padStart(2, '0');
+    const seconds = now.getSeconds().toString().padStart(2, '0');
+    clock.textContent = `${hours}:${minutes}:${seconds}`;
+  }
+
+  updateTime(); // Initial call to display the time immediately
+
+  // Update time every second
+  setInterval(updateTime, 1000);
+
+  // Show date popup when clock is clicked
+  clock.addEventListener('click', () => {
+    const currentDate = new Date().toDateString();
+    currentDateElement.textContent = currentDate;
+    datePopup.style.display = 'block';
+  });
+
+  // Hide date popup when clicked outside
+  window.addEventListener('click', (event) => {
+    if (event.target !== clock && event.target !== datePopup) {
+      datePopup.style.display = 'none';
+    }
+  });
+</script>
 </body>
 </html>
