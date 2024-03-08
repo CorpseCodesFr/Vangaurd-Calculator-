@@ -28,7 +28,8 @@
 4. **Tab Hider**: Remain incognito from GoGuardian.
 5. **Adding New Games**: Expand your gaming library with additional games.
 "6. **Discoverable Games**: Input specific equations to access various games, including unblocked site games, Minecraft, and about:blank game site."
-7. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
+ 8. **Help** If you need help on all the controls hit "h" on your key board
+ 7. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
    ---
    controls: Calculate the following sums: 1+1, 12+12, 7+7.
    ---
