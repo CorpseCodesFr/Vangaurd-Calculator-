@@ -28,13 +28,16 @@
 4. **Tab Hider**: Remain incognito from GoGuardian.
 5. **Adding New Games**: Expand your gaming library with additional games.
 "6. **Discoverable Games**: Input specific equations to access various games, including unblocked site games, Minecraft, and about:blank game site."
- 8. **Help** If you need help on all the controls hit "h" on your key board
+ 8. **Help** If you need help on all the controls hit "h" on your keyboard
  7. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
    ---
    controls: Calculate the following sums: 1+1, 12+12, 7+7.
    ---
-   **Active website** Currently, this is the sole active link due to ongoing issues with the website's stability. I'm working on alternative links, but for now, this is the only one available. Please use it promptly as it may be removed in a few days once the new link is generated.
+   **Active website** Due to ongoing issues with the website's stability, this is the sole active link currently. I'm working on alternative links, but for now, this is the only one available. Please use it promptly, as it may be removed in a few days once the new link is generated.
+   ---
 
-   # https://ixlforkids.w3spaces.com
+**Update** The website isn't set up for automatic updates, so I manually add new links. If you want more links like this, create or edit a link and DM me at https://our-wolfpack-community.mn.co/ with the details. My username is "Doden". When asked why you want to join, say, "Looking for a calculator unblocker for clips," and you'll get in.
+ ---
+  **Active links** # https://ixlforkids.w3spaces.com
 
 
