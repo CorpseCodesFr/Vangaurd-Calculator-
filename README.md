@@ -33,11 +33,15 @@
    ---
    controls: Calculate the following sums: 1+1, 12+12, 7+7.
    ---
-   **Active website** this is the only link that works right now because the website's still acting up. I'm sorting out other options, but for the time being, use this one ASAP. It might get swapped out in a few days when I have a new link.
-   ---
+**Active website** this is the only link that works right now because the website's still acting up. I'm sorting out other options, but for the time being, use this one ASAP. It might get swapped out in a few days when I have a new link.
 
-**Update** The website isn't set up for automatic updates, so I manually add new links. If you want more links like this, create or edit a link and DM me at https://our-wolfpack-community.mn.co/ with the details. My username is "Doden". When asked why you want to join, say, "Looking for a calculator unblocker for clips," and you'll get in.
- ---
-  **Active links** # https://ixlforkids.w3spaces.com
+---
+
+**Update** The website isn't set up for automatic updates, so I manually add new links. If you want more links like this, create or edit a link and DM me at <a href="https://our-wolfpack-community.mn.co/">https://our-wolfpack-community.mn.co/</a> with the details. My username is "Doden". When asked why you want to join, say, "Looking for a calculator unblocker for clips," and you'll get in.
+
+---
+
+**Active links** # https://ixlforkids.w3spaces.com
+
 
 
