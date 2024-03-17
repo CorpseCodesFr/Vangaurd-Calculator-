@@ -30,10 +30,11 @@
 "6. **Discoverable Games**: Input specific equations to access various games, including unblocked site games, Minecraft, and about:blank game site."
  8. **Help** If you need help on all the controls hit "h" on your keyboard
  7. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
+ 8. **Unblocked Google** By using a special software that's paid for, anyone can access Google without any restrictions. This software updates every day, making sure everything runs smoothly for everyone who uses it.
    ---
    controls: Calculate the following sums: 1+1, 12+12, 7+7.
    ---
-**Active website** this is the only link that works right now because the website's still acting up. I'm sorting out other options, but for the time being, use this one ASAP. It might get swapped out in a few days when I have a new link.
+**Active website** This is the only link that works right now because the website is still acting up. I'm sorting out other options but use this one ASAP. It might get swapped out in a few days when I have a new link.
 
 ---
 
