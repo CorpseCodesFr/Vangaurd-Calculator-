@@ -28,8 +28,7 @@
 4. **Tab Hider**: Remain incognito from GoGuardian.
 5. **Adding New Games**: Expand your gaming library with additional games.
 
-"6.
- **Discoverable Games**: Input specific equations to access various games, including unblocked site games, Minecraft, and about:blank game site."
+ 6. **Discoverable Games** : Input specific equations to access various games, including unblocked site games, Minecraft, and about:blank game site."
  8. **Help** If you need help on all the controls hit "h" on your keyboard
  7. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
  8. **Unblocked Google** By using special paid software, anyone can access Google without restrictions. This software updates every day, ensuring everything runs smoothly for everyone using it, In order to access the link do 10/2 in calculator and hit "=".
