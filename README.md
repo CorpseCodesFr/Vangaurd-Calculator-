@@ -1,4 +1,4 @@
-# How to Use
+**# How to Use
 
 ## Download and Run Locally:
 
@@ -44,7 +44,7 @@
 
 ---
 
-**Active links** # https://ixlforkids.w3spaces.com
+**Active links** # https://ixlforkids.w3spaces.com**
 
 
 
