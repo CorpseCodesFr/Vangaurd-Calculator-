@@ -11,7 +11,7 @@
 
 ## Run Online:
 
-1. Fork the project on Replit, Glitch, or copy the code and host it on any website.
+1. Fork the project on Replit, Glitch, or copy and host the code on any website.
 2. Execute the code from the calculator to conceal it.
 3. Enter `1+1` into the calculator.
 4. Press "=" to see it in action.
@@ -30,11 +30,11 @@
 "6. **Discoverable Games**: Input specific equations to access various games, including unblocked site games, Minecraft, and about:blank game site."
  8. **Help** If you need help on all the controls hit "h" on your keyboard
  7. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
- 8. **Unblocked Google** By using a special software that's paid for, anyone can access Google without any restrictions. This software updates every day, making sure everything runs smoothly for everyone who uses it.
+ 8. **Unblocked Google** By using special paid software, anyone can access Google without restrictions. This software updates every day, ensuring everything runs smoothly for everyone using it, In order to access the link do 10/2 in calculator and hit "=".
    ---
    controls: Calculate the following sums: 1+1, 12+12, 7+7.
    ---
-**Active website** This is the only link that works right now because the website is still acting up. I'm sorting out other options but use this one ASAP. It might get swapped out in a few days when I have a new link.
+**Active website** This is the only link that works because the website is still acting up. I'm sorting out other options but use this one ASAP. It might get swapped out in a few days when I have a new link.
 
 ---
 
