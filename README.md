@@ -28,25 +28,19 @@
 4. **Tab Hider**: Remain incognito from GoGuardian.
 5. **Adding New Games**: Expand your gaming library with additional games.
 
- 6. **Discoverable Games** : Input specific equations to access various games, including unblocked site games, Minecraft, and about:blank game site."
+ 6. **Discoverable Games**: Input specific equations to access various games, including unblocked site games, Minecraft, and about:blank game site."
  8. **Help** If you need help on all the controls hit "h" on your keyboard
  7. **Technical Support**: If you encounter issues or glitches, email me at Greysonmccann2010@gmail.com.
- 8. **Unblocked Google** By using special paid software, anyone can access Google without restrictions. This software updates every day, ensuring everything runs smoothly for everyone using it, In order to access the link do 10/2 in calculator and hit "=".
+ 8. **Unblocked Google** Anyone can access Google without restrictions by using special paid software. This software updates every day, ensuring everything runs smoothly for everyone using it. To access the link, do 10/2 in the calculator and hit "=."
    ---
    controls: Calculate the following sums: 1+1, 12+12, 7+7.
    ---
-**Active website** This is the only link that works because the website is still acting up. I'm sorting out other options but use this one ASAP. It might get swapped out in a few days when I have a new link.
+**Deleted active websites** I have removed all live website links due to their constant need for updates, which might attract attention from school filters. Nevertheless, I am dedicated to evolving this platform into a powerful tool for accessing content. While this transformation will require additional time and effort, our endeavors will yield a polished and resilient system. Anticipate a continuous stream of updates aimed not only at resolving issues but also at enhancing functionality. Should you wish to create your own link, follow the instructions outlined under the "update" section to share it with me for inclusion here!"
 
 ---
+**apply to join**: If you're interested in joining me, please visit <a href="https://our-wolfpack-community.mn.co/">https://our-wolfpack-community.mn.co/</a> and include the following phrase in your request to join: "I'm joining for 'School work only' (also referred to as clips)."
 
-**Update** The website isn't set up for automatic updates, so I manually add new links. If you want more links like this, create or edit a link and DM me at <a href="https://our-wolfpack-community.mn.co/">https://our-wolfpack-community.mn.co/</a> with the details. My username is "Deadpool". When asked why you want to join, say, "Looking for a calculator unblocker for clips," and you'll get in.
+**Update** The website isn't set up for automatic updates, so I deleted all links. If you want more links like this, create or edit a link and DM me at <a href="https://our-wolfpack-community.mn.co/">https://our-wolfpack-community.mn.co/</a> with the details. My username is "Deadpool". When asked why you want to join, say, "Looking for a calculator unblocker for clips," and you'll get in.
 
 ---
-
-**Active links**
-# https://ixlforkids.w3spaces.com** 
-# https://isptbrowser.w3spaces.com
-
-
-
 
