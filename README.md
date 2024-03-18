@@ -38,9 +38,9 @@
 **Deleted active websites** I have removed all live website links due to their constant need for updates, which might attract attention from school filters. Nevertheless, I am dedicated to evolving this platform into a powerful tool for accessing content. While this transformation will require additional time and effort, our endeavors will yield a polished and resilient system. Anticipate a continuous stream of updates aimed not only at resolving issues but also at enhancing functionality. Should you wish to create your own link, follow the instructions outlined under the "update" section to share it with me for inclusion here!"
 
 ---
-**apply to join**: If you're interested in joining me, please visit <a href="https://our-wolfpack-community.mn.co/">https://our-wolfpack-community.mn.co/</a> and include the following phrase in your request to join: "I'm joining for 'School work only' (also referred to as clips)."
+**apply to join**: If you're interested in joining me, please visit <a href="https://our-wolfpack-community.mn.co/">https://our-wolfpack-community.mn.co/</a> and include the following phrase in your request to join: "I'm joining for 'Vanguard ' (also referred to as clips)."
 
-**Update** The website isn't set up for automatic updates, so I deleted all links. If you want more links like this, create or edit a link and DM me at <a href="https://our-wolfpack-community.mn.co/">https://our-wolfpack-community.mn.co/</a> with the details. My username is "Deadpool". When asked why you want to join, say, "Looking for a calculator unblocker for clips," and you'll get in.
+**Update** The website isn't set up for automatic updates, so I deleted all links. If you want more links like this, create or edit a link and DM me at <a href="https://our-wolfpack-community.mn.co/">https://our-wolfpack-community.mn.co/</a> with the details. My username is "Deadpool". When asked why you want to join, say, "Looking for a Vanguard  unblocker for clips," and you'll get in.
 
 ---
 
