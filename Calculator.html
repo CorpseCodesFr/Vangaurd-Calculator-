@@ -332,11 +332,12 @@
 </script>
 </body>
 </html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title></title>
+<title>Popup</title>
 <style>
   /* Styling for the fancy blue tag */
   #fancy-tag {
@@ -352,6 +353,32 @@
     text-align: center; /* Center text */
     z-index: 9999; /* Ensure it's on top of other content */
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Add a shadow for depth */
+    cursor: pointer; /* Change cursor to pointer */
+  }
+
+  /* Styling for the popup */
+  .popup {
+    display: none; /* Hide popup by default */
+    position: fixed; /* Fixed position */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Centering trick */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    color: white; /* White text color */
+    padding: 20px; /* Padding */
+    border-radius: 10px; /* Rounded corners */
+    z-index: 99999; /* Ensure it's on top of other content */
+    cursor: move; /* Change cursor to move */
+  }
+
+  /* Styling for the close button */
+  .close {
+    position: absolute; /* Absolute position */
+    top: 10px; /* 10px from the top */
+    right: 10px; /* 10px from the right */
+    color: white; /* White text color */
+    font-size: 20px; /* Font size */
+    cursor: pointer; /* Change cursor to pointer */
   }
 </style>
 <link href="https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap" rel="stylesheet">
@@ -359,11 +386,62 @@
 <body>
 
 <!-- Fancy blue tag with Trade Winds font -->
-<div id="fancy-tag">Last updated 4/19/23 <3</div>
+<div id="fancy-tag" onclick="togglePopup()">Last updated 4/19/23 click for more info!</div>
 
+<!-- Popup content -->
+<div id="popup" class="popup">
+  <span class="close" onclick="togglePopup()">&times;</span>
+  <p>The most recent update on, April 19 of 2024 included fixing the unblocked games site and adding more games!</p>
+</div>
+
+<script>
+// Function to toggle popup visibility
+function togglePopup() {
+  var popup = document.getElementById("popup");
+  if (popup.style.display === "block") {
+    popup.style.display = "none";
+  } else {
+    popup.style.display = "block";
+  }
+}
+
+// Function to handle drag and drop for the popup
+function dragStart(e) {
+  var popup = document.getElementById("popup");
+  var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+  e = e || window.event;
+  e.preventDefault();
+  // get the mouse cursor position at startup:
+  pos3 = e.clientX;
+  pos4 = e.clientY;
+  document.onmouseup = closeDragElement;
+  // call a function whenever the cursor moves:
+  document.onmousemove = elementDrag;
+
+  function elementDrag(e) {
+    e = e || window.event;
+    e.preventDefault();
+    // calculate the new cursor position:
+    pos1 = pos3 - e.clientX;
+    pos2 = pos4 - e.clientY;
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    // set the element's new position:
+    popup.style.top = (popup.offsetTop - pos2) + "px";
+    popup.style.left = (popup.offsetLeft - pos1) + "px";
+  }
+
+  function closeDragElement() {
+    // stop moving when mouse button is released:
+    document.onmouseup = null;
+    document.onmousemove = null;
+  }
+}
+</script>
 
 </body>
 </html>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
